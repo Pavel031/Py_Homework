@@ -10,4 +10,8 @@ while n > 0:
     x = n % 10
     sum = sum + x
     n = n // 10
+<<<<<<< HEAD
 print(sum)
+=======
+print(sum)
+>>>>>>> 44fea9f95bd36e4a640859ed1599d9b0971b78ad
